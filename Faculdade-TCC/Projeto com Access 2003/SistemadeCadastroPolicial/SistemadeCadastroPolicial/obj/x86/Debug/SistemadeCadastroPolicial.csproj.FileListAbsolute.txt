@@ -1,0 +1,65 @@
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.exe
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.pdb
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmLogin.resources
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.Properties.Resources.resources
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.exe
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.pdb
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\BDPM.accdb
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.exe.config
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmConsultarFuncionario.resources
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmFuncionario.resources
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmPrincipal.resources
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.exe.config
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.exe
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.pdb
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\BDPM.accdb
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.exe
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.pdb
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmConsultarFuncionario.resources
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmLogin.resources
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmFuncionario.resources
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmPrincipal.resources
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.Properties.Resources.resources
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Faculdade UNOPAR\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.csproj.ResolveComReference.cache
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.csproj.ResolveComReference.cache
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.exe
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.pdb
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\BDPM.accdb
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.exe.config
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.exe
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.pdb
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.csproj.ResolveComReference.cache
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmConsultarFuncionario.resources
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmLogin.resources
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmFuncionario.resources
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmPrincipal.resources
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.Properties.Resources.resources
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmComandante.resources
+G:\Exemplos de Projetos\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmConsultarComandante.resources
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.exe.config
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.csproj.ResolveComReference.cache
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.exe
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.pdb
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\BDPM.accdb
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\BDPM.mdb
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.exe
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\bin\Debug\SistemadeCadastroPolicial.pdb
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmComandante.resources
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmConsultarComandante.resources
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmConsultarFuncionario.resources
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmLogin.resources
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmFuncionario.resources
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.frmPrincipal.resources
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\SistemadeCadastroPolicial.Properties.Resources.resources
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Faculdade UNOPAR\Projeto com Access 2003\SistemadeCadastroPolicial\SistemadeCadastroPolicial\obj\x86\Debug\GenerateResource.write.1.tlog
